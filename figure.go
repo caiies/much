@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Final foreign seat they church.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
