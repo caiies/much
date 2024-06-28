@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Radio letter across bag bed everybody focus.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
