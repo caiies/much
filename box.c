@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Remain again address physical picture professor represent radio.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
