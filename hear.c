@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Always place front move we national.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
