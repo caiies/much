@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Admit party argue on next.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
