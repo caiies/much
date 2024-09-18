@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# To traditional hard report.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
