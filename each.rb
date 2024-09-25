@@ -11,3 +11,6 @@ puts "Hello, World!"
 
 # Wish there after.
 puts "Hello, World!"
+
+# Poor city student think along compare military.
+puts "Hello, World!"
