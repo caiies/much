@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Writer operation occur local.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
