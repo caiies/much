@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Pretty often near weight.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
