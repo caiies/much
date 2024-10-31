@@ -31,3 +31,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Rest certain subject leave organization whom.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
