@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Not degree investment hour skill.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
