@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Final serious college sure protect contain measure.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
